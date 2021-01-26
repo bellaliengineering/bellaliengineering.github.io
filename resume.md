@@ -32,9 +32,11 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 University of Guelph <span style="float: right; ">September 2015 - February 2020</span>  
 **Bachelor of Engineering in Environmental Engineering**  
 **Minor in Statistics**
--Developed valuable teamwork, communication, coordination, and collaboration skills through an abundance of experience working with teams on engineering design projects.
-  -Acquired important design experience through yearly design projects, most notable being the fourth-year capstone project, *“Multi Soil Layering Wastewater Treatment System: an improved wastewater treatment system for the North Caribou Lake First Nation that increases reliability, safety, and promotes an eco-friendly operation.”* 
--Successfully completed 26 credits, gaining knowledge and insight in the following highlighted courses:
+
+- Developed valuable teamwork, communication, coordination, and collaboration skills through an abundance of experience working with teams on engineering design projects.
+  - Acquired important design experience through yearly design projects, most notable being the fourth-year capstone project, *“Multi Soil Layering Wastewater Treatment System: an improved wastewater treatment system for the North Caribou Lake First Nation that increases reliability, safety, and promotes an eco-friendly operation.”* 
+- Successfully completed 26 credits, gaining knowledge and insight in the following highlighted courses:
+
 Environmental Engineering System | Groundwater Engineering | Statistics in Engineering
 Solid and Hazardous Waste Management | Risk Assessment & Management | Soil Mechanics
 Urban Water Systems Design | GIS in Environmental Engineering | Hydrology
