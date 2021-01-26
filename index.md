@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi there!
-subtitle: 
+subtitle: I'm Bella
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/bella.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I enjoy learning and working on projects related to water quality, air quality and climate change and looking for an entry level position with a firm where I can further develop my skills and career as an engineer-in-training and scientist. Feel free to connect with me on LinkedIn!</p>
 </div>
