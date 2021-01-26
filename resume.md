@@ -37,11 +37,12 @@ University of Guelph <span style="float: right; ">September 2015 - February 2020
   - Acquired important design experience through yearly design projects, most notable being the fourth-year capstone project, *“Multi Soil Layering Wastewater Treatment System: an improved wastewater treatment system for the North Caribou Lake First Nation that increases reliability, safety, and promotes an eco-friendly operation.”* 
 - Successfully completed 26 credits, gaining knowledge and insight in the following highlighted courses:
 
+<span style="width:100%">
 Environmental Engineering System | Groundwater Engineering | Statistics in Engineering
 Solid and Hazardous Waste Management | Risk Assessment & Management | Soil Mechanics
 Urban Water Systems Design | GIS in Environmental Engineering | Hydrology
 Water and Wastewater Treatment Design | Systems and Control Theory | Heat & Mass Transfer
-
+</span>
 ### EXPERIENCE
 
 Title - **Comapany** <span style="float: right; ">Duration</span>  
