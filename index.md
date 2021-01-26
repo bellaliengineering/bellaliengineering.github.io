@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi there!
-subtitle: I'm Bella
+subtitle: 
 sitemap:
   priority: 0.9
 ---
