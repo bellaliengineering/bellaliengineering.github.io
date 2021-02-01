@@ -11,7 +11,7 @@ subtitle: Here to learn
 I want to further develop my engineering skills that I learned in school and intern experience into a successful career in the management of environmental concerns.
 
 ### SKILLS
-| ------------- |:-------------:| -----:|
+
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
