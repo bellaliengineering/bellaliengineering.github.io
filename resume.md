@@ -11,7 +11,10 @@ subtitle: Here to learn
 I want to further develop my engineering skills that I learned in school and intern experience into a successful career in the management of environmental concerns.
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 <!--
 ### PROJECTS
@@ -45,25 +48,38 @@ Water and Wastewater Treatment Design | Systems and Control Theory | Heat & Mass
 </span>
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Project Assistant - **QuantWave Technologies Inc.** <span style="float: right; ">Dec. 2019 – Present</span>  
+- Conducted academic research and market research on advanced water/wastewater analyzers to innovate a competitive water/wastewater analyzing product.
+- Perform SWOT analysis on the smart wastewater sensing systems.
 
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Environmental Field and Data Technician - **Yongquan Membrane Technology Co., LTD.** <span style="float: right; ">May. 2019 – Aug. 2019</span>  
+- Assessed the performance of various types of drinking water membrane and food/beverage processing
+membrane at the engineering lab by **performing data analysis** of the test results.
+- Managed lab tests of performance and **test results collection**, improved reliability of test results.
+- Provided reliable test results and directive conclusions for clients’ requirements; identified key metrics during data entry, complex datasets organization, and statistical data analyses by using multiple data analytical tools such as MS Excel and R.
+- **Oversaw design reports** to meet the local and ministry’s environmental compliance.
+- **Controlled quality of engineering design** and deliverables for membrane bioreactor system upgrade projects.
+- Responsible for performing COD removal efficiency tests, provided valuable results for the client who was looking to upgrade an entire membrane bioreactor system.
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Environment, Safety Engineering Intern - **Niutech Environment Technology Corporation** <span style="float: right; ">May. 2018 – Aug. 2018</span>  
+- **Review of AutoCAD design drawings** for consistency of dimensions between two parts of a pyrolysis system for the conversion of plastics and rubbers to gaseous fuel.
+- **Review of borehole logs** for soil conditions at different depths for input into the design of below ground components of the water supply system.
+- Managed weekly progress meetings with project managers and equipment manufacturers/suppliers to review equipment safety levels, information clarification, production/delivery schedules, and other administration duties.
 
+Customer Service Representative - **China Merchants Bank** <span style="float: right; ">May. 2017 – Aug. 2017</span>  
+- Provided in-person support for customers needing assistance with the automated banking tellers.
+- Supported full-time bank staff in the filing of confidential documents 
 
+Online Store Manager - **Dexiang Electrical Technology Co., LTD.** <span style="float: right; ">May. 2016 – Aug. 2016</span>  
+- Catalogued the company’s electric heaters and other products for sale on their e-commerce site.
+- Processed international orders for distribution to countries in Europe and North America.
+
+<!--
 ### RECOGNITION & INTERESTS
-
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
+-->
