@@ -12,7 +12,7 @@ I want to further develop my engineering skills that I learned in school and int
 
 ### SKILLS
 
-| Tables        | Are           | Cool  |
+|         |            |   |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
