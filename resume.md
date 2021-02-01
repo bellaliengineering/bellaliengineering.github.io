@@ -66,16 +66,16 @@ Project Assistant - **QuantWave Technologies Inc.** <span style="float: right; "
 
 Environmental Field and Data Technician - **Yongquan Membrane Technology Co., LTD.** <span style="float: right; ">May. 2019 – Aug. 2019</span>  
 - Assessed the performance of various types of drinking water membrane and food/beverage processing
-membrane at the engineering lab by **performing data analysis** of the test results.
-- Managed lab tests of performance and **test results collection**, improved reliability of test results.
+membrane at the engineering lab by performing data analysis of the test results.
+- Managed lab tests of performance and test results collection, improved reliability of test results.
 - Provided reliable test results and directive conclusions for clients’ requirements; identified key metrics during data entry, complex datasets organization, and statistical data analyses by using multiple data analytical tools such as MS Excel and R.
-- **Oversaw design reports** to meet the local and ministry’s environmental compliance.
-- **Controlled quality of engineering design** and deliverables for membrane bioreactor system upgrade projects.
+- Oversaw design reports to meet the local and ministry’s environmental compliance.
+- Controlled quality of engineering design and deliverables for membrane bioreactor system upgrade projects.
 - Responsible for performing COD removal efficiency tests, provided valuable results for the client who was looking to upgrade an entire membrane bioreactor system.
 
 Environment, Safety Engineering Intern - **Niutech Environment Technology Corporation** <span style="float: right; ">May. 2018 – Aug. 2018</span>  
-- **Review of AutoCAD design drawings** for consistency of dimensions between two parts of a pyrolysis system for the conversion of plastics and rubbers to gaseous fuel.
-- **Review of borehole logs** for soil conditions at different depths for input into the design of below ground components of the water supply system.
+- Review of AutoCAD design drawings for consistency of dimensions between two parts of a pyrolysis system for the conversion of plastics and rubbers to gaseous fuel.
+- Review of borehole logs for soil conditions at different depths for input into the design of below ground components of the water supply system.
 - Managed weekly progress meetings with project managers and equipment manufacturers/suppliers to review equipment safety levels, information clarification, production/delivery schedules, and other administration duties.
 
 Customer Service Representative - **China Merchants Bank** <span style="float: right; ">May. 2017 – Aug. 2017</span>  
