@@ -4,7 +4,7 @@ title: Résumé
 subtitle: Here to learn
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="https://github.com/bellaliengineering/bellaliengineering.github.io/raw/master/assets/resume.pdf"><strong>>Download as PDF</strong></a></span>
 <br>
 
 ### OBJECTIVE
