@@ -14,9 +14,11 @@ I want to further develop my engineering skills that I learned in school and int
 
 |         |            |   |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Engineering Design with CAD      | CAD Drawing Review | Data & Statistical Analysis |
+| Communication & Teamwork      | Field Support      |   Quality Assurance |
+| Project Coordination & Support | Engineering Project Reporting      |    Client & Stakeholder Relations  |
+| Design Software Experience | Cost Estimating      |    G Driver’s License |
+| Problem Solving & Researching | Time Management      |    Attention to Detai |
 
 <!--
 ### PROJECTS
