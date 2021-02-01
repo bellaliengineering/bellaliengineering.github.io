@@ -11,7 +11,6 @@ subtitle: Here to learn
 I want to further develop my engineering skills that I learned in school and intern experience into a successful career in the management of environmental concerns.
 
 ### SKILLS
-
 |         |            |   |
 | ------------- |:-------------:| -----:|
 | Engineering Design with CAD      | CAD Drawing Review | Data & Statistical Analysis |
